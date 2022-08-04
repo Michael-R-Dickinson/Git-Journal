@@ -10,7 +10,14 @@ Link to work: https://michael-r-dickinson.github.io/ReactTodo/
 I also started on the design portion for my portfolio website with some basic styling in photoshop.
 I'll probably also start learning figma sometime soon to make my content a bit more web-compatable. 
 
-# 8/2/22 
+## 8/2/22 
 Did a bit of work with figma today but obviously that didnt go into a git commit. 
 Im getting close to done with the portfolio website but its very slow progress and i'm alarmingly incompetent with the front-end. 
 If I can finish it out soon I might end up doing work on the 20i codebase which could be fun and a nice change of pace. 
+
+## 8/3/22
+Todays Progress: Finished building most of the assets in figma for my portfolio website. Ive finally managed to get an annoying panel animation working but im still working on scaling it to mobile and filling it with content. 
+
+Thoughts: I struggle more with the design portions of this project than the programming. Getting the react components up definitely wasnt easy but still doesnt come close to the struggle of building visual assets in figma.
+
+Link to work: (fill in later when I push to github)

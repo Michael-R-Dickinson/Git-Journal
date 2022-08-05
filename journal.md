@@ -21,3 +21,11 @@ Todays Progress: Finished building most of the assets in figma for my portfolio 
 Thoughts: I struggle more with the design portions of this project than the programming. Getting the react components up definitely wasnt easy but still doesnt come close to the struggle of building visual assets in figma.
 
 Link to work: (fill in later when I push to github)
+
+## 8/4/22
+Todays Progress: Pretty much finished my portfolio website but the scroll animation is still a problem. I also got a bit of design work done on the projects panel so I have assets to throw in there.
+
+Thoughts: I am definitely ready to move on from the portfolio as anything more I would add seems more complicated than im ready for. I'd be happy to finish it up on my own time but it doesnt make sense throwing more hours into this one animation. 
+
+## 8/5/22
+Todays Progress: Added some reactivity to the contact panel on the portfolio and got it hosted with github pages. 

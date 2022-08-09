@@ -33,3 +33,9 @@ Thoughts: I am definitely ready to move on from the portfolio as anything more I
 
 Todays Progress: Added some reactivity to the contact panel on the portfolio and got it hosted with github pages.
 Also started working on accessibility features for the 20i website.
+
+## 8/8/22
+
+Todays Progress: Almost finished adding axe accessibility features to the 20i website. It took pretty much all day working on those but im happy to be pretty much finish aside from some final touches to the contact page.
+
+Thoughts: A11y isnt too bad but I would like to build some visual components down the line. It'l be interesting to see what other projects or further a11y features Keith has in mind.

@@ -4,7 +4,7 @@ finished up todo list app .
 Its far from perfect and most of the interface isn't reactive but it was a useful learning project .
 The sidebar has a lot of functionality to be desired but I wrote it on my first day and i dont even wanna touch that code.
 Im contented with the body but I wish i'd had time to add more interactability.
-Link to work: https://michael-r-dickinson.github.io/ReactTodo/
+Link to work: <https://michael-r-dickinson.github.io/ReactTodo/>
 
 I also started on the design portion for my portfolio website with some basic styling in photoshop.
 I'll probably also start learning figma sometime soon to make my content a bit more web-compatable.
@@ -39,3 +39,7 @@ Also started working on accessibility features for the 20i website.
 Todays Progress: Almost finished adding axe accessibility features to the 20i website. It took pretty much all day working on those but im happy to be pretty much finish aside from some final touches to the contact page.
 
 Thoughts: A11y isnt too bad but I would like to build some visual components down the line. It'l be interesting to see what other projects or further a11y features Keith has in mind.
+
+# 8/9/22
+
+Todays Progress: Fixed a bug with gallery item clickability on the 20i website. Also merged my a11y changes to the 20i website. Started looking into heading level consistency as well.

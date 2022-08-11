@@ -43,3 +43,9 @@ Thoughts: A11y isnt too bad but I would like to build some visual components dow
 # 8/9/22
 
 Todays Progress: Fixed a bug with gallery item clickability on the 20i website. Also merged my a11y changes to the 20i website. Started looking into heading level consistency as well.
+
+# 8/10/22
+
+Todays Progress: Almost finished adding a11y features to the index page. I have a `skip to content` button that works but might not be up to standards with react best practices. I hope itl work though as its one of the few real component contributions that ive made.
+
+Thoughts: I would really like to get to work on ui components or really anything that involves some creativity and gives me a chance to contribute something meaningful. I dont terribly mind a11y as im happy to do whatever but I had hoped this would be a  opportunity to get hands on experience with react.

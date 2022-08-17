@@ -67,3 +67,9 @@ Thoughts: I wonder what 20i has in store for me next week. Im hoping for somethi
 Todays Progress: Managed to get my a11y PRs merged into development and started work on creating a universal heading/subtitle component.
 
 Thoughts: Im happy to be starting work with Antonio. Getting to work with lots of amazing programmers is a great experience. I also appreciate the new issues im working on, especially the standardized text heading, as theyre quite engaging and feel more substantial.
+
+# 8/16/22
+
+Todays Progress: Worked on fixing the positioning for the 20i services carousel through resizing. Also got a little bit of progress on the roving tab index for the 20i our work page. After a bit of struggle, I managed to bully some headings to fit my standardized component.
+
+Thoughts: This was a little bit of a slower da. Some components just aren't a fan of me.

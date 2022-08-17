@@ -48,16 +48,22 @@ Todays Progress: Fixed a bug with gallery item clickability on the 20i website. 
 
 Todays Progress: Almost finished adding a11y features to the index page. I have a `skip to content` button that works but might not be up to standards with react best practices. I hope itl work though as its one of the few real component contributions that ive made.
 
-Thoughts: I would really like to get to work on ui components or really anything that involves some creativity and gives me a chance to contribute something meaningful. I dont terribly mind a11y as im happy to do whatever but I had hoped this would be a  opportunity to get hands on experience with react.
+Thoughts: I would really like to get to work on ui components something that gives me a chance to contribute meaningfully.
 
 ## 8/11/22
 
 Todays Progress: Finished a11y on the index page and got it merged. Im nearing the end of a11y changes with the Accessible Web Insights plugin but I still have a few things to do.
 
-Thoughts: Ill hopefully have a11y with this one plugin done by the end of the week. I would like to be done sooner but theres not a lot of opportunity here for speedups as im just doing the same thing repetadly. I guess this is proper intern level work. Im always happy to work overtime and give my best but even so it can be hard to find motivation for this.  
+Thoughts: Ill hopefully have a11y with this one plugin done by the end of the week. I would like to be done sooner but theres not a lot of opportunity here for speedups as im doing fairly repetitive stuff.
 
 # 8/12/22
 
 Todays Progress: As I had hoped, I finished up the a11y changes today, or atleast got PRs up for them. I also fixed a minor bug with a horizontal scroll bar on the 20i contact page.
 
 Thoughts: I wonder what 20i has in store for me next week. Im hoping for something more substantial but beggars cant be choosers and I am an intern 🤷.
+
+# 8/15/22
+
+Todays Progress: Managed to get my a11y PRs merged into development and started work on creating a universal heading/subtitle component.
+
+Thoughts: Im happy to be starting work with Antonio. Getting to work with lots of amazing programmers is a great experience. I also appreciate the new issues im working on, especially the standardized text heading, as theyre quite engaging and feel more substantial.

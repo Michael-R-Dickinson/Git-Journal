@@ -72,4 +72,10 @@ Thoughts: Im happy to be starting work with Antonio. Getting to work with lots o
 
 Todays Progress: Worked on fixing the positioning for the 20i services carousel through resizing. Also got a little bit of progress on the roving tab index for the 20i our work page. After a bit of struggle, I managed to bully some headings to fit my standardized component.
 
-Thoughts: This was a little bit of a slower da. Some components just aren't a fan of me.
+Thoughts: This was a little bit of a slower day. Some components just aren't a fan of me.
+
+# 8/17/22
+
+Todays Progress: Managed to get all of my major PRs approved so I can move on to whatever Antonio has in mind for me. Also started looking into color and focus issues on the 20i site.
+
+Thoughts: Really happy to have those PRs approved and to be starting on something new. I did enjoy getting to work on some layout and component aspects of the site.

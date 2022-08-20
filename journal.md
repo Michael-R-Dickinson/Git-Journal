@@ -79,3 +79,9 @@ Thoughts: This was a little bit of a slower day. Some components just aren't a f
 Todays Progress: Managed to get all of my major PRs approved so I can move on to whatever Antonio has in mind for me. Also started looking into color and focus issues on the 20i site.
 
 Thoughts: Really happy to have those PRs approved and to be starting on something new. I did enjoy getting to work on some layout and component aspects of the site.
+
+# 8/18/22
+
+Todays Progress: Created an AWS lambda function to send emails on submit for my contact's portfolio form. Added an API gateway to access it. Also continued to work on 20i site issues for the launch monday. This mostly involved solving minor issues, messing with color changes and editing headings.
+
+Thoughts: Having a great time with Antonio and im looking forward to tomorrow.

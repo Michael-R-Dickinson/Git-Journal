@@ -85,3 +85,9 @@ Thoughts: Really happy to have those PRs approved and to be starting on somethin
 Todays Progress: Created an AWS lambda function to send emails on submit for my contact's portfolio form. Added an API gateway to access it. Also continued to work on 20i site issues for the launch monday. This mostly involved solving minor issues, messing with color changes and editing headings.
 
 Thoughts: Having a great time with Antonio and im looking forward to tomorrow.
+
+# 8/19/22
+
+Todays Progress: Worked on 20i element focus states and minor issues. Also configured my lambeda function to use an AWS lambda endpoint instead of an API Gateway for simplicity. Additionally, I got to start looking at Greg's figma plugin to export styles to a ts file.
+
+Thoughts: Unfortunately my week with Antonio has come to a close but im happy to have worked with him. Hes been a super encouraging mentor for the last little bit and im thankful he took the time to give me a great experience.

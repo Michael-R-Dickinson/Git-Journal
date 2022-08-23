@@ -91,3 +91,9 @@ Thoughts: Having a great time with Antonio and im looking forward to tomorrow.
 Todays Progress: Worked on 20i element focus states and minor issues. Also configured my lambeda function to use an AWS lambda endpoint instead of an API Gateway for simplicity. Additionally, I got to start looking at Greg's figma plugin to export styles to a ts file.
 
 Thoughts: Unfortunately my week with Antonio has come to a close but im happy to have worked with him. Hes been a super encouraging mentor for the last little bit and im thankful he took the time to give me a great experience.
+
+# 8/19/22
+
+Todays Progress: Forked and created a number of fix/feature branches for Greg's figma plugin. It should be pretty much working and ready for use on the 20i site. 
+
+Thoughts: A little slower of a day as I tried to focus on writing my best code and using best practices with issues/readmes. As Greg is still on vacation i'm happy to continue working with Antonio. Trevor also mentioned some generator based project I might get to work on but im running out of time as its my last week. Hoping to still have time for that 🙏

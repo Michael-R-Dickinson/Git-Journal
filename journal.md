@@ -56,44 +56,60 @@ Todays Progress: Finished a11y on the index page and got it merged. Im nearing t
 
 Thoughts: Ill hopefully have a11y with this one plugin done by the end of the week. I would like to be done sooner but theres not a lot of opportunity here for speedups as im doing fairly repetitive stuff.
 
-# 8/12/22
+## 8/12/22
 
 Todays Progress: As I had hoped, I finished up the a11y changes today, or atleast got PRs up for them. I also fixed a minor bug with a horizontal scroll bar on the 20i contact page.
 
 Thoughts: I wonder what 20i has in store for me next week. Im hoping for something more substantial but beggars cant be choosers and I am an intern 🤷.
 
-# 8/15/22
+## 8/15/22
 
 Todays Progress: Managed to get my a11y PRs merged into development and started work on creating a universal heading/subtitle component.
 
 Thoughts: Im happy to be starting work with Antonio. Getting to work with lots of amazing programmers is a great experience. I also appreciate the new issues im working on, especially the standardized text heading, as theyre quite engaging and feel more substantial.
 
-# 8/16/22
+## 8/16/22
 
 Todays Progress: Worked on fixing the positioning for the 20i services carousel through resizing. Also got a little bit of progress on the roving tab index for the 20i our work page. After a bit of struggle, I managed to bully some headings to fit my standardized component.
 
 Thoughts: This was a little bit of a slower day. Some components just aren't a fan of me.
 
-# 8/17/22
+## 8/17/22
 
 Todays Progress: Managed to get all of my major PRs approved so I can move on to whatever Antonio has in mind for me. Also started looking into color and focus issues on the 20i site.
 
 Thoughts: Really happy to have those PRs approved and to be starting on something new. I did enjoy getting to work on some layout and component aspects of the site.
 
-# 8/18/22
+## 8/18/22
 
 Todays Progress: Created an AWS lambda function to send emails on submit for my contact's portfolio form. Added an API gateway to access it. Also continued to work on 20i site issues for the launch monday. This mostly involved solving minor issues, messing with color changes and editing headings.
 
 Thoughts: Having a great time with Antonio and im looking forward to tomorrow.
 
-# 8/19/22
+## 8/19/22
 
 Todays Progress: Worked on 20i element focus states and minor issues. Also configured my lambeda function to use an AWS lambda endpoint instead of an API Gateway for simplicity. Additionally, I got to start looking at Greg's figma plugin to export styles to a ts file.
 
 Thoughts: Unfortunately my week with Antonio has come to a close but im happy to have worked with him. Hes been a super encouraging mentor for the last little bit and im thankful he took the time to give me a great experience.
 
-# 8/19/22
+## 8/22/22
 
 Todays Progress: Forked and created a number of fix/feature branches for Greg's figma plugin. It should be pretty much working and ready for use on the 20i site. 
 
 Thoughts: A little slower of a day as I tried to focus on writing my best code and using best practices with issues/readmes. As Greg is still on vacation i'm happy to continue working with Antonio. Trevor also mentioned some generator based project I might get to work on but im running out of time as its my last week. Hoping to still have time for that 🙏
+
+## 8/23/22
+Todays Progress: Worked a little more on troubleshooting for Gregs figma plugin but it should function on any figma page without issue now.
+
+Thoughts: Hopefully when Greg gets back from vacation tomorrow we can look over the figma plugin and finalize it for publishing. 
+
+## 8/24/22 
+Todays Progress: Continued on the 20i site stuff including working on the consistent focus states pr and some minor fixes to keep the website clean. Also got a bunch of my PRs reviewed and merged into the codebase. 
+
+Thoughts: A little slower of a day but still a relief nonetheless to get all those PRs merged and not have to worry about reviews and future fixes. 
+
+
+## 8/25/22
+Todays Progress: Finally got the lighthouse a11y score on the 20i website to 100. There were a few new a11y errors created by reworks on the page that I had to fix as well. Also got to review the figma plugin with Greg and make sure it was finalized and my changes were merged. 
+
+Thoughts: Happy to have gotten all the a11y stuff sorted before my internship is over. 
